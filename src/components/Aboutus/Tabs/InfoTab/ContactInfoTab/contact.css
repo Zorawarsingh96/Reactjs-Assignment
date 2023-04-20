@@ -1,0 +1,49 @@
+.contact-modal-close-btn{
+    color: black;
+    margin-right: 1%;
+    margin-top: -1%;
+    margin-left: -3%;
+}
+
+.contact-modal-card-gap{
+    margin-top: 6%; 
+}
+.contact-modal-icon-btn-color{
+    color: #AA0000
+}
+.contact-modal-heading{
+    margin-left: -5%;
+    font-size: 130%;
+}
+.contact-modal-card-internal-gap{
+    margin-top: -5%; 
+    margin-left: 2%; 
+}
+.contact-modal-save-btn{
+    width: 100%;
+    background-color: #AA0000;
+    margin-top: 12%;
+}
+.contact-modal-card-icons{
+    font-size: 116%; 
+    margin-left: 10%;
+}
+.edit-contact-back-btn{
+    color: black;
+    margin-right: 1%;
+    margin-top: -1%;
+    margin-left: -3%;
+}
+.edit-contact-subheading{
+    margin-bottom: 10%; 
+}
+.edit-contact-addmore{
+    width: 100%;
+    background-color: #FBCEB1;
+    color: #AA0000;
+    margin-top: 5%
+}
+.edit-contact-save-btn{
+    width: 100%;
+    background-color: #AA0000;
+}

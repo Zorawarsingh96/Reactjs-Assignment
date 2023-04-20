@@ -1,0 +1,14 @@
+.card-margin{
+    margin-bottom: 6%;
+    height: 22vh;
+}
+.card-margin-text{
+    margin-top: -11%;
+}
+.card-margin-icon-btn-color{
+    color: #AA0000
+}
+.card-statment-icon{
+    color: #DCDCDC;
+    font-size: 121%;
+}

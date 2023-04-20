@@ -1,0 +1,70 @@
+.title-list{
+    margin-left: -8%;
+  }
+
+.card-mainright-side{
+    margin-top: -19%;
+    margin-left: -7%;
+}
+  
+.card-mainright-side-contact-avatar{
+    margin-top: -178%;
+    height: 4vh;
+    width: 172%; 
+    margin-left: -12%;
+}
+
+.card-mainright-side-contact-avatar-data{
+    color: red; 
+    font-size: 71% 
+}
+
+.card-contact-title{
+    margin-top: 10%;
+    margin-left: -4%; 
+}
+.card-address-title{
+    margin-top: 14px
+}
+.card-contact-title-thirld-row{
+    margin-top: -13%;
+    margin-left: -7%; 
+}
+.card-social-media-top{
+   margin-top: 13%;
+}
+.card-social-media-icons{
+   font-size: 25px;
+}
+.card-statment-icon{
+    color: #DCDCDC;
+    font-size: 121%;
+}
+.card-social-icon{
+    color: #DCDCDC;
+    font-size: 175%;
+}
+.card-mainright-side-statement-avatar{
+    margin-top: -134%;
+    height: 4vh;
+    width: 172%;
+    margin-left: -12%;
+}
+.card-insta-icon{
+    width: 29%;
+    font-size: 266%;
+}
+.card-social-media-icon-fonts{
+    font-size: 60%;
+    color: black;
+}
+.card-social-media-icon-font-special{
+    font-size: 30%;
+    color: black;
+}
+.card-social-distance{
+    margin-left: 10%;
+}
+.card-social-special{
+    margin-bottom: 147%;
+}
