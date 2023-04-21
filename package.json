@@ -2,7 +2,7 @@
     "name": "react-assignment",
     "version": "1.1.1",
     "private": true,
-    "homepage": "https://mantisdashboard.io/free",
+    "homepage": "https://zorawarsingh96.github.io/Reactjs-Assignment/",
     "dependencies": {
         "@ant-design/colors": "^6.0.0",
         "@ant-design/icons": "^4.7.0",
@@ -48,6 +48,8 @@
         "yup": "^0.32.11"
     },
     "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build",
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",

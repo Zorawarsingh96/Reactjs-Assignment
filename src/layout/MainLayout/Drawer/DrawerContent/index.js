@@ -11,7 +11,7 @@ const DrawerContent = () => (
             '& .simplebar-content': {
                 display: 'flex',
                 flexDirection: 'column',
-                marginTop: '-12%'
+                marginTop: '-5%'
             }
         }}
     >
