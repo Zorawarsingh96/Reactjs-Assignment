@@ -25,9 +25,9 @@ const root = createRoot(container); // createRoot(container!) if you use TypeScr
 root.render(
     <StrictMode>
         <ReduxProvider store={store}>
-            <BrowserRouter basename="/free">
+            <HashRouter basename="/free">
                 <App />
-            </BrowserRouter>
+            </HashRouter>
         </ReduxProvider>
     </StrictMode>
 );
